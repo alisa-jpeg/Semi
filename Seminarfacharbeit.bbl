@@ -1,0 +1,1615 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nyt/global//global/global}
+    \entry{acns_guideline2}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=1012089a95aed5b25a71b5e38d5e6942}{%
+           family={{American Clinical Neurophysiology Society}},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{1012089a95aed5b25a71b5e38d5e6942}
+      \strng{fullhash}{1012089a95aed5b25a71b5e38d5e6942}
+      \strng{bibnamehash}{1012089a95aed5b25a71b5e38d5e6942}
+      \strng{authorbibnamehash}{1012089a95aed5b25a71b5e38d5e6942}
+      \strng{authornamehash}{1012089a95aed5b25a71b5e38d5e6942}
+      \strng{authorfullhash}{1012089a95aed5b25a71b5e38d5e6942}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://www.acns.org/UserFiles/file/EEGGuideline2ElectrodeNomen.pdf}}
+      \field{note}{(Abgerufen am 13.01.2026)}
+      \field{title}{Guideline 2: Guidelines for Standard Electrode Position Nomenclature}
+      \field{year}{2016}
+    \endentry
+    \entry{doccheck_nasion}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4a9ab770a55d5418a6bfa892b2f71445}{%
+           family={Antwerpes},
+           familyi={A\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6d4176e70b5b36e9e216b9824fcc1006}{%
+           family={Hamad},
+           familyi={H\bibinitperiod},
+           given={Hashem},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9903202c7cc5582f65373ca2b6cd071e}
+      \strng{fullhash}{9903202c7cc5582f65373ca2b6cd071e}
+      \strng{bibnamehash}{9903202c7cc5582f65373ca2b6cd071e}
+      \strng{authorbibnamehash}{9903202c7cc5582f65373ca2b6cd071e}
+      \strng{authornamehash}{9903202c7cc5582f65373ca2b6cd071e}
+      \strng{authorfullhash}{9903202c7cc5582f65373ca2b6cd071e}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://flexikon.doccheck.com/de/Nasion}}
+      \field{note}{(Abgerufen am 07.01.2025)}
+      \field{title}{Nasion}
+      \field{year}{2024}
+    \endentry
+    \entry{doccheck_synapse}{misc}{}
+      \name{author}{4}{ul=2}{%
+        {{un=0,uniquepart=base,hash=4a9ab770a55d5418a6bfa892b2f71445}{%
+           family={Antwerpes},
+           familyi={A\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c39f9030afe7a66169ecb475890fe236}{%
+           family={Reh},
+           familyi={R\bibinitperiod},
+           given={Fabienne},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=b94b8c87fe9add9afc90c1cefd72521c}{%
+           family={Wulandari},
+           familyi={W\bibinitperiod},
+           given={Syahfitri},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=18338f699bdae4a2beb5215d479df91f}{%
+           family={Nolte},
+           familyi={N\bibinitperiod},
+           given={Janica\bibnamedelimb et\bibnamedelima al.},
+           giveni={J\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{837377957967130e64803bd13298d4fb}
+      \strng{fullhash}{786f7c97a3d3444612243b2e99e36d89}
+      \strng{bibnamehash}{837377957967130e64803bd13298d4fb}
+      \strng{authorbibnamehash}{837377957967130e64803bd13298d4fb}
+      \strng{authornamehash}{837377957967130e64803bd13298d4fb}
+      \strng{authorfullhash}{786f7c97a3d3444612243b2e99e36d89}
+      \field{sortinit}{A}
+      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://flexikon.doccheck.com/de/Synapse}}
+      \field{note}{(Abgerufen am 11.08.2025)}
+      \field{title}{Synapse}
+      \field{year}{2025}
+    \endentry
+    \entry{biopac_reference_ground}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=16606557c9755bf4bf57e7bc031e8912}{%
+           family={{BIOPAC}},
+           familyi={B\bibinitperiod}}}%
+      }
+      \strng{namehash}{16606557c9755bf4bf57e7bc031e8912}
+      \strng{fullhash}{16606557c9755bf4bf57e7bc031e8912}
+      \strng{bibnamehash}{16606557c9755bf4bf57e7bc031e8912}
+      \strng{authorbibnamehash}{16606557c9755bf4bf57e7bc031e8912}
+      \strng{authornamehash}{16606557c9755bf4bf57e7bc031e8912}
+      \strng{authorfullhash}{16606557c9755bf4bf57e7bc031e8912}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://www.biopac.com/knowledge-base/ground-vs-reference-for-eeg-recording/}}
+      \field{note}{(Abgerufen am 31.12.2025)}
+      \field{title}{What is the difference between ground and reference in EEG recording?}
+    \endentry
+    \entry{anchuang_elektrodenkappe}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e14194d34b0af16673dad7ac559f7130}{%
+           family={Changzhou\bibnamedelimb Anchuang\bibnamedelimb Intelligente\bibnamedelimb Ausrüstung\bibnamedelima Co.},
+           familyi={C\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim I\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={Ltd.},
+           giveni={L\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{e14194d34b0af16673dad7ac559f7130}
+      \strng{fullhash}{e14194d34b0af16673dad7ac559f7130}
+      \strng{bibnamehash}{e14194d34b0af16673dad7ac559f7130}
+      \strng{authorbibnamehash}{e14194d34b0af16673dad7ac559f7130}
+      \strng{authornamehash}{e14194d34b0af16673dad7ac559f7130}
+      \strng{authorfullhash}{e14194d34b0af16673dad7ac559f7130}
+      \field{sortinit}{C}
+      \field{sortinithash}{4d103a86280481745c9c897c925753c0}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://de.ac-welding.com/blog/what-is-the-difference-between-a-dry-and-wet-electrode-cap-1439787.html}}
+      \field{note}{(abgerufen am 31.12.2025)}
+      \field{title}{Was ist der Unterschied zwischen einer trockenen und einer nassen Elektrodenkappe? - Blog}
+      \field{year}{2025}
+    \endentry
+    \entry{doccheck_frontallappen}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fca16f891bbf9e70ba024b6aee1c91ca}{%
+           family={{DocCheck Flexikon}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \strng{fullhash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \strng{bibnamehash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \strng{authorbibnamehash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \strng{authornamehash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \strng{authorfullhash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://flexikon.doccheck.com/de/Frontallappen}}
+      \field{note}{(Abgerufen am 02.01.2026)}
+      \field{title}{Frontallappen}
+    \endentry
+    \entry{doccheck_grosshirn}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=fca16f891bbf9e70ba024b6aee1c91ca}{%
+           family={{DocCheck Flexikon}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \strng{fullhash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \strng{bibnamehash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \strng{authorbibnamehash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \strng{authornamehash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \strng{authorfullhash}{fca16f891bbf9e70ba024b6aee1c91ca}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{6f385f66841fb5e82009dc833c761848}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://flexikon.doccheck.com/de/Gro\%C3\%9Fhirn}}
+      \field{note}{(Abgerufen am 01.01.2026)}
+      \field{title}{Großhirn}
+    \endentry
+    \entry{fanter1986}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=4bc035e04b73a51c02a4e5dbd2f0ffcd}{%
+           family={Fanter},
+           familyi={F\bibinitperiod},
+           given={Heinz},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2c95721f23546d2b706ca090c179eb55}{%
+           family={Trzopek},
+           familyi={T\bibinitperiod},
+           given={Hans-Georg},
+           giveni={H\bibinithyphendelim G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {JSTOR}%
+      }
+      \strng{namehash}{138aa2597e7664eb51d07017a391f1c9}
+      \strng{fullhash}{138aa2597e7664eb51d07017a391f1c9}
+      \strng{bibnamehash}{138aa2597e7664eb51d07017a391f1c9}
+      \strng{authorbibnamehash}{138aa2597e7664eb51d07017a391f1c9}
+      \strng{authornamehash}{138aa2597e7664eb51d07017a391f1c9}
+      \strng{authorfullhash}{138aa2597e7664eb51d07017a391f1c9}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Psychiatrie, Neurologie Und Medizinische Psychologie}
+      \field{number}{2}
+      \field{title}{EEG-Befunde Als Grundlage Der Militärmedizinischen Begutachtung Bei Zuständen Nach Schädelhirntraumen}
+      \field{volume}{38}
+      \field{year}{1986}
+    \endentry
+    \entry{tu_darmstadt2022}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=0b908cf1355bab4ad594ca125da8224d}{%
+           family={{FG Arbeits- und Ingenieurpsychologie -- TU Darmstadt}},
+           familyi={F\bibinitperiod}}}%
+      }
+      \strng{namehash}{0b908cf1355bab4ad594ca125da8224d}
+      \strng{fullhash}{0b908cf1355bab4ad594ca125da8224d}
+      \strng{bibnamehash}{0b908cf1355bab4ad594ca125da8224d}
+      \strng{authorbibnamehash}{0b908cf1355bab4ad594ca125da8224d}
+      \strng{authornamehash}{0b908cf1355bab4ad594ca125da8224d}
+      \strng{authorfullhash}{0b908cf1355bab4ad594ca125da8224d}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://www.arbing.psychologie.tu-darmstadt.de/forschung_fai/labor_fai_1/eeg_fai_1/index.de.jsp}}
+      \field{note}{(Abgerufen am 14.01.2026)}
+      \field{title}{EEG}
+      \field{year}{2022}
+    \endentry
+    \entry{hescheler2010}{book}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=e4952449e5d2c9737a9a80ee4dbaca06}{%
+           family={Hescheler},
+           familyi={H\bibinitperiod},
+           given={J.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bb85d5602524bb702bb93c64846e5e09}{%
+           family={Deetjen},
+           familyi={D\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0a2b21ae464c04cdb59da98eee490736}{%
+           family={Speckmann},
+           familyi={S\bibinitperiod},
+           given={E.-J.},
+           giveni={E\bibinithyphendelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier Urban \& Fischer}%
+      }
+      \strng{namehash}{08b9ac1b416d0e533a6ebae8e045feed}
+      \strng{fullhash}{08b9ac1b416d0e533a6ebae8e045feed}
+      \strng{bibnamehash}{08b9ac1b416d0e533a6ebae8e045feed}
+      \strng{authorbibnamehash}{08b9ac1b416d0e533a6ebae8e045feed}
+      \strng{authornamehash}{08b9ac1b416d0e533a6ebae8e045feed}
+      \strng{authorfullhash}{08b9ac1b416d0e533a6ebae8e045feed}
+      \field{sortinit}{H}
+      \field{sortinithash}{23a3aa7c24e56cfa16945d55545109b5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Repetitorium Psychologie}
+      \field{year}{2010}
+    \endentry
+    \entry{jadeja2021}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=a5a7980e436c1edbe2cfae853d029d5e}{%
+           family={Jadeja},
+           familyi={J\bibinitperiod},
+           given={N.\bibnamedelimi M.},
+           giveni={N\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Cambridge University Press}%
+      }
+      \strng{namehash}{a5a7980e436c1edbe2cfae853d029d5e}
+      \strng{fullhash}{a5a7980e436c1edbe2cfae853d029d5e}
+      \strng{bibnamehash}{a5a7980e436c1edbe2cfae853d029d5e}
+      \strng{authorbibnamehash}{a5a7980e436c1edbe2cfae853d029d5e}
+      \strng{authornamehash}{a5a7980e436c1edbe2cfae853d029d5e}
+      \strng{authorfullhash}{a5a7980e436c1edbe2cfae853d029d5e}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{How to Read an EEG}
+      \field{year}{2021}
+    \endentry
+    \entry{jensen2010}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=02c18dff9e41427516fb47ea1e213c66}{%
+           family={Jensen},
+           familyi={J\bibinitperiod},
+           given={Ole},
+           giveni={O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c56fcf8685ec625a7ce9491eed7c6d8d}{%
+           family={Mazaheri},
+           familyi={M\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{9ed8878c1f07f9d72e2b5298b56ba050}
+      \strng{fullhash}{9ed8878c1f07f9d72e2b5298b56ba050}
+      \strng{bibnamehash}{9ed8878c1f07f9d72e2b5298b56ba050}
+      \strng{authorbibnamehash}{9ed8878c1f07f9d72e2b5298b56ba050}
+      \strng{authornamehash}{9ed8878c1f07f9d72e2b5298b56ba050}
+      \strng{authorfullhash}{9ed8878c1f07f9d72e2b5298b56ba050}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Frontiers in Human Neuroscience}
+      \field{title}{Shaping Functional Architecture by Oscillatory Alpha Activity}
+      \field{year}{2010}
+      \verb{doi}
+      \verb 10.3389/fnhum.2010.00186
+      \endverb
+    \endentry
+    \entry{jia2011}{article}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=df05a6aaf11de69ce31c0a93ba8df7f6}{%
+           family={Jia},
+           familyi={J\bibinitperiod},
+           given={Xiaoxuan},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=57058d1ccf623fd9affc0244f9f2d79f}{%
+           family={Kohn},
+           familyi={K\bibinitperiod},
+           given={Adam},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{3242f6a1e3d04f96225d34a23e8a37a9}
+      \strng{fullhash}{3242f6a1e3d04f96225d34a23e8a37a9}
+      \strng{bibnamehash}{3242f6a1e3d04f96225d34a23e8a37a9}
+      \strng{authorbibnamehash}{3242f6a1e3d04f96225d34a23e8a37a9}
+      \strng{authornamehash}{3242f6a1e3d04f96225d34a23e8a37a9}
+      \strng{authorfullhash}{3242f6a1e3d04f96225d34a23e8a37a9}
+      \field{sortinit}{J}
+      \field{sortinithash}{b2f54a9081ace9966a7cb9413811edb4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{PLoS Biology}
+      \field{title}{Gamma rhythms in the brain}
+      \field{year}{2011}
+      \verb{doi}
+      \verb 10.1371/journal.pbio.1001045
+      \endverb
+    \endentry
+    \entry{kenhub_aktionspotential}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=72d8c53daf3e79ec49fb36b61c9074ac}{%
+           family={{Kenhub}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \strng{fullhash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \strng{bibnamehash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \strng{authorbibnamehash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \strng{authornamehash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \strng{authorfullhash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \field{extraname}{1}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://www.kenhub.com/de/library/physiologie/aktionspotential}}
+      \field{note}{(Abgerufen am 03.01.2026)}
+      \field{title}{Aktionspotential}
+      \field{year}{2023}
+    \endentry
+    \entry{kenhub_temporallappen}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=72d8c53daf3e79ec49fb36b61c9074ac}{%
+           family={{Kenhub}},
+           familyi={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \strng{fullhash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \strng{bibnamehash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \strng{authorbibnamehash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \strng{authornamehash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \strng{authorfullhash}{72d8c53daf3e79ec49fb36b61c9074ac}
+      \field{extraname}{2}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://www.kenhub.com/de/library/anatomie/temporallappen-schlafenlappen}}
+      \field{note}{(Abgerufen am 03.01.2026)}
+      \field{title}{Temporallappen}
+      \field{year}{2023}
+    \endentry
+    \entry{klawitter2019}{book}{}
+      \name{author}{13}{}{%
+        {{un=0,uniquepart=base,hash=225b935f92eac13ef28c08c342dcb00a}{%
+           family={Klawitter},
+           familyi={K\bibinitperiod},
+           given={Eva},
+           giveni={E\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bdafc463b5fcb381ef1382e23ebbdfd}{%
+           family={Kluge},
+           familyi={K\bibinitperiod},
+           given={Siegfried},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7f923e0bc004a28ae79ce5300398fc5a}{%
+           family={Kohly},
+           familyi={K\bibinitperiod},
+           given={Alexander},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=45c7a99823037909bbd66c1400270f63}{%
+           family={Kreiselmaier},
+           familyi={K\bibinitperiod},
+           given={Klaus},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=fa56d44788d57335c909e496a2bef6de}{%
+           family={Probst},
+           familyi={P\bibinitperiod},
+           given={Wilfried},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17b8bd5da1ee93423748bd9bdfb072b8}{%
+           family={Schuchardt},
+           familyi={S\bibinitperiod},
+           given={Petra},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7818133ccdb066fd40d9cc94fa26f530}{%
+           family={Seidel},
+           familyi={S\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d9b874c74524891f2a31a8d324d9421d}{%
+           family={Weber},
+           familyi={W\bibinitperiod},
+           given={Sybille},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=2f25246d33ea522b9be6edec35e583e6}{%
+           family={Bilsing},
+           familyi={B\bibinitperiod},
+           given={Annelore},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4d1f18c8a6efaba85b42906564aaa7a5}{%
+           family={Börstler},
+           familyi={B\bibinitperiod},
+           given={Andreas},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7ed2e79c8fbb4aef4c2eadec8649b5c}{%
+           family={Dietze},
+           familyi={D\bibinitperiod},
+           given={Jörg},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5218de63f0d1cd28303125bb81337445}{%
+           family={Firtzlaff},
+           familyi={F\bibinitperiod},
+           given={Karl-Heinz},
+           giveni={K\bibinithyphendelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4e5f76c3c1101ac93d2227e5a7222140}{%
+           family={Goldberg},
+           familyi={G\bibinitperiod},
+           given={Axel},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Duden}%
+      }
+      \strng{namehash}{2d78e738674a517fddd487240f6a39aa}
+      \strng{fullhash}{259754839beab65e429cd11a84021125}
+      \strng{bibnamehash}{2d78e738674a517fddd487240f6a39aa}
+      \strng{authorbibnamehash}{2d78e738674a517fddd487240f6a39aa}
+      \strng{authornamehash}{2d78e738674a517fddd487240f6a39aa}
+      \strng{authorfullhash}{259754839beab65e429cd11a84021125}
+      \field{sortinit}{K}
+      \field{sortinithash}{c02bf6bff1c488450c352b40f5d853ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Basiswissen Schule Abitur – Biologie: Das Standardwerk für die Oberstufe}
+      \field{year}{2019}
+    \endentry
+    \entry{lee2022}{article}{}
+      \name{author}{3}{}{%
+        {{un=1,uniquepart=given,hash=20979686c9873c561a6374e704138734}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Sang\bibnamedelima Heon},
+           giveni={S\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=1}}%
+        {{un=0,uniquepart=base,hash=bebc186f3ab0de77c9d85751a14645a1}{%
+           family={Thunemann},
+           familyi={T\bibinitperiod},
+           given={Martin},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=1,uniquepart=given,hash=473ac99c408709095b75caa9b6671546}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Keundong\bibnamedelimb et\bibnamedelima al.},
+           giveni={K\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=1}}%
+      }
+      \strng{namehash}{ae328b91b2979cb7783a814fcf8e1d97}
+      \strng{fullhash}{ae328b91b2979cb7783a814fcf8e1d97}
+      \strng{bibnamehash}{ae328b91b2979cb7783a814fcf8e1d97}
+      \strng{authorbibnamehash}{ae328b91b2979cb7783a814fcf8e1d97}
+      \strng{authornamehash}{ae328b91b2979cb7783a814fcf8e1d97}
+      \strng{authorfullhash}{ae328b91b2979cb7783a814fcf8e1d97}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Advanced Functional Materials}
+      \field{title}{Scalable Thousand Channel Penetrating Microneedle Arrays on Flex for Multimodal Brain--Machine Interfaces}
+      \field{year}{2022}
+      \verb{doi}
+      \verb 10.1002/adfm.202112045
+      \endverb
+    \endentry
+    \entry{liu2025}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=d877c7344f212a44ce3134e0644355e8}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Xiu-Yun},
+           giveni={X\bibinithyphendelim Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b4c31ea8c15201781b72be761d6c789}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Wen-Long},
+           giveni={W\bibinithyphendelim L\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=0474cc7d2cd3785ad22074a7b4abeb8b}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Miao},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92cc8009e5309f5258fd947c86e74591}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Ming-Yi\bibnamedelimb et\bibnamedelima al.},
+           giveni={M\bibinithyphendelim Y\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{0ef944140e94996a4f5270981378228a}
+      \strng{fullhash}{f34550994a7d3b6eb13c0c97c3bd8bbf}
+      \strng{bibnamehash}{0ef944140e94996a4f5270981378228a}
+      \strng{authorbibnamehash}{0ef944140e94996a4f5270981378228a}
+      \strng{authornamehash}{0ef944140e94996a4f5270981378228a}
+      \strng{authorfullhash}{f34550994a7d3b6eb13c0c97c3bd8bbf}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Military Medical Research}
+      \field{number}{1}
+      \field{title}{Recent applications of EEG-based brain-computer-interface in the medical}
+      \field{volume}{12}
+      \field{year}{2025}
+      \verb{doi}
+      \verb 10.1186/s40779-025-00598-z
+      \endverb
+    \endentry
+    \entry{luck2005}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=79fd54f3fcddf4edaae5f0004eb664c0}{%
+           family={Luck},
+           familyi={L\bibinitperiod},
+           given={Steven\bibnamedelima John},
+           giveni={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {MIT Press}%
+      }
+      \strng{namehash}{79fd54f3fcddf4edaae5f0004eb664c0}
+      \strng{fullhash}{79fd54f3fcddf4edaae5f0004eb664c0}
+      \strng{bibnamehash}{79fd54f3fcddf4edaae5f0004eb664c0}
+      \strng{authorbibnamehash}{79fd54f3fcddf4edaae5f0004eb664c0}
+      \strng{authornamehash}{79fd54f3fcddf4edaae5f0004eb664c0}
+      \strng{authorfullhash}{79fd54f3fcddf4edaae5f0004eb664c0}
+      \field{sortinit}{L}
+      \field{sortinithash}{7c47d417cecb1f4bd38d1825c427a61a}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{An Introduction to the Event-Related Potential Technique}
+      \field{year}{2005}
+    \endentry
+    \entry{medi_frontallappen}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=40de218b51a7ffa247bee3b738c58305}{%
+           family={Medi-Karriere},
+           familyi={M\bibinithyphendelim K\bibinitperiod}}}%
+      }
+      \strng{namehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{fullhash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{bibnamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authorbibnamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authornamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authorfullhash}{40de218b51a7ffa247bee3b738c58305}
+      \field{extraname}{1}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://www.medi-karriere.de/wiki/frontallappen-lobus-frontalis/}}
+      \field{note}{(Abgerufen am 02.01.2026)}
+      \field{title}{Frontallappen: Definition, Aufbau und Funktion}
+      \field{year}{2025}
+    \endentry
+    \entry{medi_okzipitallappen}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=40de218b51a7ffa247bee3b738c58305}{%
+           family={{Medi-Karriere}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{fullhash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{bibnamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authorbibnamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authornamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authorfullhash}{40de218b51a7ffa247bee3b738c58305}
+      \field{extraname}{2}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://www.medi-karriere.de/wiki/okzipitallappen/}}
+      \field{note}{(Abgerufen am 02.01.2026)}
+      \field{title}{Okzipitallappen -- Aufbau, Anatomie und Funktion}
+      \field{year}{2025}
+    \endentry
+    \entry{medi_parietallappen}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=40de218b51a7ffa247bee3b738c58305}{%
+           family={{Medi-Karriere}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{fullhash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{bibnamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authorbibnamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authornamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authorfullhash}{40de218b51a7ffa247bee3b738c58305}
+      \field{extraname}{3}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://www.medi-karriere.de/wiki/parietallappen/}}
+      \field{note}{(Abgerufen am 02.01.2026)}
+      \field{title}{Parietallappen -- Anatomie und Funktion}
+      \field{year}{2025}
+    \endentry
+    \entry{medi_cortex}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=40de218b51a7ffa247bee3b738c58305}{%
+           family={{Medi-Karriere}},
+           familyi={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{fullhash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{bibnamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authorbibnamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authornamehash}{40de218b51a7ffa247bee3b738c58305}
+      \strng{authorfullhash}{40de218b51a7ffa247bee3b738c58305}
+      \field{extraname}{4}
+      \field{sortinit}{M}
+      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://www.medi-karriere.de/wiki/praefrontaler-cortex/}}
+      \field{note}{(Abgerufen am 10.10.2025)}
+      \field{title}{Präfrontaler Cortex: Anatomie und Klinik}
+      \field{year}{2025}
+    \endentry
+    \entry{nayak_waveforms}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=23f1a84d5d31a162edaa0b57b10bdd11}{%
+           family={Nayak},
+           familyi={N\bibinitperiod},
+           given={Chetan\bibnamedelima S.},
+           giveni={C\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=600ef1b13bc729d508d5c4ab8f0d1dc2}{%
+           family={Anilkumar},
+           familyi={A\bibinitperiod},
+           given={Arayamparambil\bibnamedelima C.},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{bdcf72f978cb9ba4f7d270762c84804c}
+      \strng{fullhash}{bdcf72f978cb9ba4f7d270762c84804c}
+      \strng{bibnamehash}{bdcf72f978cb9ba4f7d270762c84804c}
+      \strng{authorbibnamehash}{bdcf72f978cb9ba4f7d270762c84804c}
+      \strng{authornamehash}{bdcf72f978cb9ba4f7d270762c84804c}
+      \strng{authorfullhash}{bdcf72f978cb9ba4f7d270762c84804c}
+      \field{sortinit}{N}
+      \field{sortinithash}{22369a73d5f88983a108b63f07f37084}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://www.ncbi.nlm.nih.gov/books/NBK539805/}}
+      \field{note}{(Abgerufen am 07.01.2026)}
+      \field{title}{Normal EEG waveforms}
+      \field{year}{2025}
+    \endentry
+    \entry{openbci2025}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=233fc18c98706ccf78810caf354d45b5}{%
+           family={{OpenBCI Documentation}},
+           familyi={O\bibinitperiod}}}%
+      }
+      \strng{namehash}{233fc18c98706ccf78810caf354d45b5}
+      \strng{fullhash}{233fc18c98706ccf78810caf354d45b5}
+      \strng{bibnamehash}{233fc18c98706ccf78810caf354d45b5}
+      \strng{authorbibnamehash}{233fc18c98706ccf78810caf354d45b5}
+      \strng{authornamehash}{233fc18c98706ccf78810caf354d45b5}
+      \strng{authorfullhash}{233fc18c98706ccf78810caf354d45b5}
+      \field{sortinit}{O}
+      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://docs.openbci.com/AddOns/Headwear/MarkIV/}}
+      \field{note}{(online, abgerufen am 24.10.2025)}
+      \field{title}{Ultracortex Mark IV}
+      \field{year}{2025}
+    \endentry
+    \entry{doccheck_wernicke}{misc}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=598446a1253ee0ec139d70f80de68ddb}{%
+           family={Prinz},
+           familyi={P\bibinitperiod},
+           given={Dominic},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f553f93d8d26ec89e8361b56dabbf5a5}{%
+           family={Höfel},
+           familyi={H\bibinitperiod},
+           given={Natascha},
+           giveni={N\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+        {{un=0,uniquepart=base,hash=e2b4856992f0fa38774df7561c73c09f}{%
+           family={Raschi},
+           familyi={R\bibinitperiod},
+           given={Ali},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=430908e99dc58f5250644c0213792ef8}{%
+           family={Dunst},
+           familyi={D\bibinitperiod},
+           given={Gregory},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=07f3a8ef4ab40d0d75c3b35dc050c22e}{%
+           family={Ostendorf},
+           familyi={O\bibinitperiod},
+           given={Norbert},
+           giveni={N\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{5112f7b9a2cf8d0bbc3f6664f37febb0}
+      \strng{fullhash}{236e98858feb9d3b4e824059eff726ad}
+      \strng{bibnamehash}{5112f7b9a2cf8d0bbc3f6664f37febb0}
+      \strng{authorbibnamehash}{5112f7b9a2cf8d0bbc3f6664f37febb0}
+      \strng{authornamehash}{5112f7b9a2cf8d0bbc3f6664f37febb0}
+      \strng{authorfullhash}{236e98858feb9d3b4e824059eff726ad}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://flexikon.doccheck.com/de/Wernicke-Areal}}
+      \field{note}{(Abgerufen am 07.01.2025)}
+      \field{title}{Wernicke-Areal}
+      \field{year}{2024}
+    \endentry
+    \entry{qin2023}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=17514ba0d6a24ee933e0f77e3a58937e}{%
+           family={Qin},
+           familyi={Q\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f26f664835ac6c347db22001b657f1a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1f26f664835ac6c347db22001b657f1a}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Y.},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=92faacc6874983183ce7fb86e39f31ec}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d1cf3b5875e193af09fb48f09d5f8c55}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={X.},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{263a683db028f25a621c24a268252f94}
+      \strng{fullhash}{588a68103b67a0a558cc4869efbf539d}
+      \strng{bibnamehash}{263a683db028f25a621c24a268252f94}
+      \strng{authorbibnamehash}{263a683db028f25a621c24a268252f94}
+      \strng{authornamehash}{263a683db028f25a621c24a268252f94}
+      \strng{authorfullhash}{588a68103b67a0a558cc4869efbf539d}
+      \field{sortinit}{Q}
+      \field{sortinithash}{ce69a400a872ddd02ee7fdb3b38c6abd}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Biosensors}
+      \field{title}{Application and Development of EEG Acquisition and Feedback Technology: A Review}
+      \field{volume}{13}
+      \field{year}{2023}
+      \verb{doi}
+      \verb 10.3390/bios13100930
+      \endverb
+    \endentry
+    \entry{doccheck_1020-system}{misc}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=c39f9030afe7a66169ecb475890fe236}{%
+           family={Reh},
+           familyi={R\bibinitperiod},
+           given={Fabienne},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a9ab770a55d5418a6bfa892b2f71445}{%
+           family={Antwerpes},
+           familyi={A\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=bbc1562bedf7176423bc64d4705fc99b}{%
+           family={Westebbe},
+           familyi={W\bibinitperiod},
+           given={Moritz},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=f553f93d8d26ec89e8361b56dabbf5a5}{%
+           family={Höfel},
+           familyi={H\bibinitperiod},
+           given={Natascha},
+           giveni={N\bibinitperiod},
+           givenun=0,
+           prefix={van\bibnamedelima den},
+           prefixi={v\bibinitperiod\bibinitdelim d\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{1ad3f4374bc3f148eb90ca09f80c8954}
+      \strng{fullhash}{f2db44744a95969c48f01875ee5f3748}
+      \strng{bibnamehash}{1ad3f4374bc3f148eb90ca09f80c8954}
+      \strng{authorbibnamehash}{1ad3f4374bc3f148eb90ca09f80c8954}
+      \strng{authornamehash}{1ad3f4374bc3f148eb90ca09f80c8954}
+      \strng{authorfullhash}{f2db44744a95969c48f01875ee5f3748}
+      \field{sortinit}{R}
+      \field{sortinithash}{5e1c39a9d46ffb6bebd8f801023a9486}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://flexikon.doccheck.com/de/10-20-System}}
+      \field{note}{(Abgerufen am 07.01.2025)}
+      \field{title}{10-20-System}
+      \field{year}{2025}
+    \endentry
+    \entry{stlouis2016}{article}{}
+      \name{author}{3}{}{%
+        {{un=0,uniquepart=base,hash=70799248d86613495a8b4472a47af60a}{%
+           family={St\bibnamedelima Louis},
+           familyi={S\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Erik\bibnamedelima K.},
+           giveni={E\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0ad5f8ba4df5aeecebfb1546a274540}{%
+           family={Frey},
+           familyi={F\bibinitperiod},
+           given={Lauren\bibnamedelima C.},
+           giveni={L\bibinitperiod\bibinitdelim C\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ffeb66f550bf3c67c64f2fd56894ae75}{%
+           family={Britton},
+           familyi={B\bibinitperiod},
+           given={Jeffrey\bibnamedelimb W.\bibnamedelimi et\bibnamedelima al.},
+           giveni={J\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim e\bibinitperiod\bibinitdelim a\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{78d1db3c38fab50b69dcf9a6feb3dfff}
+      \strng{fullhash}{78d1db3c38fab50b69dcf9a6feb3dfff}
+      \strng{bibnamehash}{78d1db3c38fab50b69dcf9a6feb3dfff}
+      \strng{authorbibnamehash}{78d1db3c38fab50b69dcf9a6feb3dfff}
+      \strng{authornamehash}{78d1db3c38fab50b69dcf9a6feb3dfff}
+      \strng{authorfullhash}{78d1db3c38fab50b69dcf9a6feb3dfff}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\url{https://www.ncbi.nlm.nih.gov/books/NBK390351/}}
+      \field{journaltitle}{NCBI Bookshelf}
+      \field{title}{The Scientific Basis of EEG: Neurophysiology of EEG Generation in the Brain}
+      \field{year}{2016}
+    \endentry
+    \entry{studyflix_aktionspotential}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b18c523e872ac427f4140082fee87b65}{%
+           family={{Studyflix}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{fullhash}{b18c523e872ac427f4140082fee87b65}
+      \strng{bibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorbibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authornamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorfullhash}{b18c523e872ac427f4140082fee87b65}
+      \field{extraname}{1}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://studyflix.de/biologie/aktionspotential-2739}}
+      \field{note}{(Abgerufen am 17.12.2025)}
+      \field{title}{Aktionspotential -- Ablauf und Phasen}
+    \endentry
+    \entry{studyflix_epsp_ipsp}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b18c523e872ac427f4140082fee87b65}{%
+           family={{Studyflix}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{fullhash}{b18c523e872ac427f4140082fee87b65}
+      \strng{bibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorbibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authornamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorfullhash}{b18c523e872ac427f4140082fee87b65}
+      \field{extraname}{2}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://studyflix.de/biologie/epsp-ipsp-2803}}
+      \field{note}{(Abgerufen am 17.12.2025)}
+      \field{title}{EPSP und IPSP}
+    \endentry
+    \entry{studyflix_nervenzelle}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b18c523e872ac427f4140082fee87b65}{%
+           family={{Studyflix}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{fullhash}{b18c523e872ac427f4140082fee87b65}
+      \strng{bibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorbibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authornamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorfullhash}{b18c523e872ac427f4140082fee87b65}
+      \field{extraname}{3}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{3}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://studyflix.de/biologie/nervenzelle-2737}}
+      \field{note}{(Abgerufen am 16.12.2025)}
+      \field{title}{Nervenzelle}
+    \endentry
+    \entry{studyflix_ruhepotential}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b18c523e872ac427f4140082fee87b65}{%
+           family={{Studyflix}},
+           familyi={S\bibinitperiod}}}%
+      }
+      \strng{namehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{fullhash}{b18c523e872ac427f4140082fee87b65}
+      \strng{bibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorbibnamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authornamehash}{b18c523e872ac427f4140082fee87b65}
+      \strng{authorfullhash}{b18c523e872ac427f4140082fee87b65}
+      \field{extraname}{4}
+      \field{sortinit}{S}
+      \field{sortinithash}{b164b07b29984b41daf1e85279fbc5ab}
+      \field{extradate}{4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://studyflix.de/biologie/ruhepotential-2740}}
+      \field{note}{(Abgerufen am 17.12.2025)}
+      \field{title}{Ruhepotential}
+    \endentry
+    \entry{uchida1991}{article}{}
+      \name{author}{5}{}{%
+        {{un=0,uniquepart=base,hash=f3e3db28808a299851cb9f5a3c609081}{%
+           family={Uchida},
+           familyi={U\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=c4126baa320da9d7f68d25995b3b70a7}{%
+           family={Maloney},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a7ce4fd877d6cc5a07b27264f0e0ef27}{%
+           family={March},
+           familyi={M\bibinitperiod},
+           given={J.D.},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6e63e42f23719bb5334e2033aa687cab}{%
+           family={Azari},
+           familyi={A\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=81ec91402259187de30b476af2dcc52b}{%
+           family={Feinberg},
+           familyi={F\bibinitperiod},
+           given={I.},
+           giveni={I\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{a348872bc362a9d0aad15ba5dd4166a4}
+      \strng{fullhash}{8322f5b817fda62acf43c36007405294}
+      \strng{bibnamehash}{a348872bc362a9d0aad15ba5dd4166a4}
+      \strng{authorbibnamehash}{a348872bc362a9d0aad15ba5dd4166a4}
+      \strng{authornamehash}{a348872bc362a9d0aad15ba5dd4166a4}
+      \strng{authorfullhash}{8322f5b817fda62acf43c36007405294}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Brain Research Bulletin}
+      \field{number}{1}
+      \field{title}{Sigma (12–15 Hz) and Delta (0.3–3 Hz) EEG oscillate reciprocally within NREM sleep}
+      \field{volume}{27}
+      \field{year}{1991}
+      \field{pages}{93\bibrangedash 96}
+      \range{pages}{4}
+    \endentry
+    \entry{doccheck_inion}{misc}{}
+      \name{author}{2}{}{%
+        {{un=0,uniquepart=base,hash=74a680c7cb95a8c345719d3274f0252c}{%
+           family={Unterhofer},
+           familyi={U\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4a9ab770a55d5418a6bfa892b2f71445}{%
+           family={Antwerpes},
+           familyi={A\bibinitperiod},
+           given={Frank},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{783049d4da6cc82e9c225bfc0f63ea2a}
+      \strng{fullhash}{783049d4da6cc82e9c225bfc0f63ea2a}
+      \strng{bibnamehash}{783049d4da6cc82e9c225bfc0f63ea2a}
+      \strng{authorbibnamehash}{783049d4da6cc82e9c225bfc0f63ea2a}
+      \strng{authornamehash}{783049d4da6cc82e9c225bfc0f63ea2a}
+      \strng{authorfullhash}{783049d4da6cc82e9c225bfc0f63ea2a}
+      \field{sortinit}{U}
+      \field{sortinithash}{6901a00e45705986ee5e7ca9fd39adca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://flexikon.doccheck.com/de/Inion}}
+      \field{note}{(Abgerufen am 07.01.2025)}
+      \field{title}{Inion}
+      \field{year}{2024}
+    \endentry
+    \entry{vanlier2004}{article}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=1b12f748353c5d0e5a017377b9b38b1c}{%
+           family={Van\bibnamedelima Lier},
+           familyi={V\bibinitperiod\bibinitdelim L\bibinitperiod},
+           given={Hester},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=3611b210e543addf001ae50c36bbc980}{%
+           family={Drinkenburg},
+           familyi={D\bibinitperiod},
+           given={Wilhelmus\bibnamedelima H.I.M},
+           giveni={W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=161711c5eb0e5ab97eff84175a9639ba}{%
+           family={Van\bibnamedelima Eeten},
+           familyi={V\bibinitperiod\bibinitdelim E\bibinitperiod},
+           given={Yvonne\bibnamedelima J.W},
+           giveni={Y\bibinitperiod\bibinitdelim J\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=6a9ba47a3dac4926abddc36733309ca0}{%
+           family={Coenen},
+           familyi={C\bibinitperiod},
+           given={Anton\bibnamedelima M.L},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+      }
+      \strng{namehash}{1b2815e8c4aced63a9dd1e49505164c6}
+      \strng{fullhash}{658a4e5a8a0b0fddf63913145144124b}
+      \strng{bibnamehash}{1b2815e8c4aced63a9dd1e49505164c6}
+      \strng{authorbibnamehash}{1b2815e8c4aced63a9dd1e49505164c6}
+      \strng{authornamehash}{1b2815e8c4aced63a9dd1e49505164c6}
+      \strng{authorfullhash}{658a4e5a8a0b0fddf63913145144124b}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Neuropharmacology}
+      \field{number}{2}
+      \field{title}{Effects of diazepam and zolpidem on EEG beta frequencies are behavior-specific in rats}
+      \field{volume}{47}
+      \field{year}{2004}
+      \field{pages}{163\bibrangedash 174}
+      \range{pages}{12}
+    \endentry
+    \entry{varnhorn_2005}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9fe30b71f8666e2af6dbef40f499febe}{%
+           family={Varnhorn},
+           familyi={V\bibinitperiod},
+           given={Beate},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Gütersloh; München}%
+      }
+      \list{publisher}{1}{%
+        {Wissen Media Verlag}%
+      }
+      \strng{namehash}{9fe30b71f8666e2af6dbef40f499febe}
+      \strng{fullhash}{9fe30b71f8666e2af6dbef40f499febe}
+      \strng{bibnamehash}{9fe30b71f8666e2af6dbef40f499febe}
+      \strng{authorbibnamehash}{9fe30b71f8666e2af6dbef40f499febe}
+      \strng{authornamehash}{9fe30b71f8666e2af6dbef40f499febe}
+      \strng{authorfullhash}{9fe30b71f8666e2af6dbef40f499febe}
+      \field{sortinit}{V}
+      \field{sortinithash}{afb52128e5b4dc4b843768c0113d673b}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Bertelsmann Jugendlexikon -- Nervensystem}
+      \field{year}{2005}
+    \endentry
+    \entry{wiki_aktionspotential}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{1}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://de.wikipedia.org/w/index.php?title=Aktionspotential&oldid=256411399}}
+      \field{note}{(Abgerufen am 07.01.2026)}
+      \field{title}{Aktionspotential}
+      \field{year}{2025}
+    \endentry
+    \entry{wikipedia_eeg_highpass}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{2}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://en.wikipedia.org/wiki/Electroencephalography}}
+      \field{note}{(Abgerufen am 13.01.2026)}
+      \field{title}{Electroencephalography -- Effect of high-pass filter on ERP amplitude}
+      \field{year}{2025}
+    \endentry
+    \entry{wikipedia_eeg_nyquist}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{3}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://en.wikipedia.org/wiki/Electroencephalography}}
+      \field{note}{(Abgerufen am 13.01.2026)}
+      \field{title}{Electroencephalography -- Nyquist theorem and sampling rate for EEG}
+      \field{year}{2025}
+    \endentry
+    \entry{wiki_elektrode}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{4}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://de.wikipedia.org/w/index.php?title=Elektrode&oldid=255494236}}
+      \field{note}{(Abgerufen am 26.12.2025)}
+      \field{title}{Elektrode}
+      \field{year}{2025}
+    \endentry
+    \entry{wiki_eeg}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{5}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{5}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://de.wikipedia.org/w/index.php?title=Elektroenzephalografie&oldid=260366848}}
+      \field{note}{(Abgerufen am 26.12.2025)}
+      \field{title}{Elektroenzephalografie}
+      \field{year}{2025}
+    \endentry
+    \entry{wiki_gehirn}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://de.wikipedia.org/w/index.php?title=Gehirn&oldid=262154933}}
+      \field{note}{(Abgerufen am 07.01.2026)}
+      \field{title}{Gehirn}
+      \field{year}{2025}
+    \endentry
+    \entry{wiki_nervenzelle}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{7}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{7}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://de.wikipedia.org/w/index.php?title=Nervenzelle&oldid=255022402}}
+      \field{note}{(Abgerufen am 07.01.2026)}
+      \field{title}{Nervenzelle}
+      \field{year}{2025}
+    \endentry
+    \entry{wiki_neurodegenerativ}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{8}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradate}{8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://de.wikipedia.org/w/index.php?title=Neurodegenerative_Erkrankung&oldid=260451738}}
+      \field{note}{(Abgerufen am 26.12.2025)}
+      \field{title}{Neurodegenerative Erkrankung}
+      \field{year}{2025}
+    \endentry
+    \entry{wiki_leckstrom}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=9c677286866aad38f8e9b660f5411814}{%
+           family={{Wikipedia}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{fullhash}{9c677286866aad38f8e9b660f5411814}
+      \strng{bibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorbibnamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authornamehash}{9c677286866aad38f8e9b660f5411814}
+      \strng{authorfullhash}{9c677286866aad38f8e9b660f5411814}
+      \field{extraname}{9}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://de.wikipedia.org/w/index.php?title=Leckstrom_(Biologie)&oldid=262967597}}
+      \field{note}{(Abgerufen am 04.01.2026)}
+      \field{title}{Leckstrom (Biologie)}
+      \field{year}{2026}
+    \endentry
+    \entry{wiki_eeg_english}{misc}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=b6aea1a416c89509a7df1cbb69249cb6}{%
+           family={{Wikipedia contributors}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \strng{namehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{fullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{bibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorbibnamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authornamehash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \strng{authorfullhash}{b6aea1a416c89509a7df1cbb69249cb6}
+      \field{sortinit}{W}
+      \field{sortinithash}{4315d78024d0cea9b57a0c6f0e35ed0d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{\\ \url{https://en.wikipedia.org/wiki/Electroencephalography}}
+      \field{note}{(Abgerufen am 07.01.2026)}
+      \field{title}{Electroencephalography}
+      \field{year}{2025}
+    \endentry
+    \entry{xing2018}{article}{}
+      \name{author}{11}{}{%
+        {{un=0,uniquepart=base,hash=7375ad5d3f06357fafaebbf483751cea}{%
+           family={Xing},
+           familyi={X\bibinitperiod},
+           given={Xiao},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=7a566ae0f28e0eb3ca5a86711611b2c6}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Yijun},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=97685e77f546d898da75cfe6413da52f}{%
+           family={Pei},
+           familyi={P\bibinitperiod},
+           given={Weihua},
+           giveni={W\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=1cde068fac4b7612cf6b01978061dfa9}{%
+           family={Guo},
+           familyi={G\bibinitperiod},
+           given={Xuhong},
+           giveni={X\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=8a323e3516b5b5e67991fc8c02073f7f}{%
+           family={Liu},
+           familyi={L\bibinitperiod},
+           given={Zhiduo},
+           giveni={Z\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=60af9bc009f709103e587bb92cee1cda}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Fei},
+           giveni={F\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=e27463110753ff163e467b3a44e52205}{%
+           family={Ming},
+           familyi={M\bibinitperiod},
+           given={Gege},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=17d4077b828ee770b77e869a6bdfeb82}{%
+           family={Zhao},
+           familyi={Z\bibinitperiod},
+           given={Hongze},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=a0dec1df7a29e979d6494e52c37be2b1}{%
+           family={Gui},
+           familyi={G\bibinitperiod},
+           given={Qiang},
+           giveni={Q\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ea48c701acc89d38cf6e16accf10712e}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Hongda},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=38026ba4ee6b102b47bf3ffb41325c8f}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod},
+           prefixun=0}}%
+      }
+      \strng{namehash}{b8aba8fcf85c5ff55895f7e63f5b88a0}
+      \strng{fullhash}{343da8d95cbb5f5ccc686f17b7c9d8e2}
+      \strng{bibnamehash}{b8aba8fcf85c5ff55895f7e63f5b88a0}
+      \strng{authorbibnamehash}{b8aba8fcf85c5ff55895f7e63f5b88a0}
+      \strng{authornamehash}{b8aba8fcf85c5ff55895f7e63f5b88a0}
+      \strng{authorfullhash}{343da8d95cbb5f5ccc686f17b7c9d8e2}
+      \field{sortinit}{X}
+      \field{sortinithash}{1965c258adceecf23ce3d67b05113442}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Scientific Reports}
+      \field{number}{1}
+      \field{title}{A High-Speed SSVEP-Based BCI using dry EEG electrodes}
+      \field{volume}{8}
+      \field{year}{2018}
+      \field{pages}{14708}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1038/s41598-018-32283-8
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
