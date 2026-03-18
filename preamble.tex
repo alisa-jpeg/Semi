@@ -1,0 +1,121 @@
+%Schriftart
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[ngerman]{babel}
+\usepackage{lmodern}
+
+%Festlegen des Seitenlayouts
+\usepackage[onehalfspacing]{setspace} %Zeilenabstand
+%alternativ \linespread{1.5}
+%BCOR ist der Binderand, DIV definiert den Satzspiegel (siehe KOMA-script Dokumentation S. 30)
+\KOMAoptions{BCOR=0.5cm, DIV=11, parskip=half}
+%Absätze werden über parskip geregelt. Die Werte sind parskip=true/false/half
+
+%Abstand vor Kapitelbeginn
+\RedeclareSectionCommand[
+  beforeskip=0pt,
+  afterindent=false
+]{chapter}
+
+%Schriftart der Überschriften serif in bold
+\addtokomafont{disposition}{\rmfamily}
+%Schriftart der Überschriften in serif ohne bold
+%\setkomafont{disposition}{\normalfont}
+
+%Für das Einfügen eines Glossars: siehe https://en.wikibooks.org/wiki/LaTeX/Glossary
+
+%stützt die Schnittstelle von float und listings zu tocbasic (genutzt von KOMA-script)
+\usepackage{scrhack}
+
+%Zum Auskommentieren von größeren Blöcken
+\usepackage{comment}
+%Als Platzhalter
+\usepackage{lipsum}
+%Einfachere Verwendung von Anführungszeichen
+\newcommand{\qt}[1]{\glqq#1\grqq{}}
+%Angabe von Bildquellen
+\newcommand{\quelle}[1]{\\\vspace{.1cm}{Quelle: #1}}
+
+%Bilder
+\usepackage{graphicx}
+\usepackage{float}
+\graphicspath{{./abbildungen/}}
+
+
+%Einfügen von Unformatiertem typewriter Text
+\usepackage{verbatim}
+%über mehrere Zeilen mit \begin{Verbatim}[breaklines=true]\end{Verbatim}
+\usepackage{fancyvrb}
+
+
+%Alles was das Formelherz begehrt
+\usepackage{amstext} 
+\usepackage{amsmath}
+\usepackage{amssymb}
+
+
+%Für die Literaturverzeichnisse
+\usepackage{csquotes}
+%\usepackage[backend=biber, bibstyle=authoryear, citestyle=apa]{biblatex}
+%Für Hauptname der Quelle in anderer Schriftart nehme man 'iso-authoryear'. (nutzt dreprecated Feld)
+\usepackage[backend=biber, style=authoryear]{biblatex}
+\addbibresource{literatur.bib}
+
+%Literaturverzeichnis exakt nach ISO 690-3
+%Eine Alternative Erstellung von Literaturverzeichnissen über natbib (letzte Version von 2010)
+%WICHTIG: bei einem Wechsel müssen alle Temporären Dateien von LaTex gelöscht werden!
+%\usepackage{natbib}
+%\usepackage{multibib} %Unterteilung in Internet- und Printmedien
+%\newcites{online}{Internetquellenverzeichnis} 
+%Statt \cite{} muss für Internetquellen nun \citeonline{} verwendet werden!
+
+
+
+%Anklickbare Links und \url{}
+\usepackage{hyperref}
+%Zeilenumbrüche in URLs, standard url Paket wird von hyperref geladen, Befehl \url{} bleibt gleich
+\usepackage{microtype}[final]
+
+
+%Einbinden von Quelltext in Python (https://tex.stackexchange.com/questions/83882/how-to-highlight-python-syntax-in-latex-listings-lstinputlistings-command)
+% Default fixed font does not support bold face
+\DeclareFixedFont{\ttb}{T1}{txtt}{bx}{n}{12} % for bold
+\DeclareFixedFont{\ttm}{T1}{txtt}{m}{n}{12}  % for normal
+
+% Custom colors
+\usepackage{color}
+\definecolor{deepblue}{rgb}{0,0,0.5}
+\definecolor{deepred}{rgb}{0.6,0,0}
+\definecolor{deepgreen}{rgb}{0,0.5,0}
+
+\usepackage{listings}
+
+% Python style for highlighting
+\newcommand\pythonstyle{\lstset{
+language=Python,
+basicstyle=\ttm,
+otherkeywords={self},             % Add keywords here
+keywordstyle=\ttb\color{deepblue},
+emph={MyClass,__init__},          % Custom highlighting
+emphstyle=\ttb\color{deepred},    % Custom highlighting style
+stringstyle=\color{deepgreen},
+frame=tb,                         % Any extra options here
+showstringspaces=false            % 
+}}
+
+
+% Python environment
+\lstnewenvironment{python}[1][]
+{
+\pythonstyle
+\lstset{#1}
+}
+{}
+
+% Python for external files
+\newcommand\pythonexternal[2][]{{
+\pythonstyle
+\lstinputlisting[#1]{#2}}}
+
+% Python for inline
+\newcommand\pythoninline[1]{{\pythonstyle\lstinline!#1!}}

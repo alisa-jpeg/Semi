@@ -1,0 +1,91 @@
+\chapter{Einführung in diese Vorlage}
+\pagenumbering{arabic}
+\section{Tipps}
+\begin{itemize}
+ \item Auf Overleaf kann diese Vorlage als .zip komprimierter Ordner importiert werden.
+ \item \qt{Anführungszeichen} können mit \verb"\qt{Text}"
+ eingefügt werden.
+ \item Bücher und andere Quellen werden nur in der Bibliographie angezeigt, wenn auch auf sie verwiesen wird.
+ \item Der Satzspiegel der Seiten ist nicht zentriert, da sich links ein Binderand befindet. Dieser kann in der Präambel konfiguriert werden.
+ \item Die Art des Absatzes zwischen Abschnitten kann in der Präambel geändert werden.
+ \item Es empfiehlt sich alle Label nach Typ zu strukturieren. Alle Bilder können zum Beispiel mit \texttt{fig:} begonnen werden.
+ \item Sollten Fragen entstehen, lohnt sich zuerst ein Blick in die Präambel.
+ \item Die Abstände der Seitenränder folgen denen der Seitenränder gängiger Textverarbeitungsprogramme und sind einzuhalten.
+ \item Es wird anderthalbfacher Zeilenabstand verwendet.
+ \item Die Schriftgröße beträgt 12 pt.
+ \item Blocksatz und Silbentrennung sind obligatorisch.
+\end{itemize}
+
+\section{Text}
+Dies ist ein Absatz mit Text.
+
+Hier beginnt ein neuer Absatz. Sollte \LaTeX~ein langes Wort nicht kennen, kann mit \verb;\-; ein Bindestrich eingefügt werden, der nur bei Bedarf verwendet wird. 
+Der Gedankenstrich (--) wird durch doppelte Eingabe des Bindestrichs \verb;--; realisiert.\\
+Eine neue Zeile beginnt hier. Ein Zeilenumbruch kann unterbunden werden, indem der Befehl \verb;\mbox{}; verwendet wird.
+
+\section{Bilder}
+
+\begin{figure}[ht]
+ \centering
+ \includegraphics[width=0.3\textwidth]{bilder/czg.pdf}
+ \quelle{Bildquelle} %dieser Befehl muss direkt unter "includegraphics" stehen
+ \caption{Das Schullogo des Carl-Zeiss-Gymnasiums in Jena}
+ \label{fig:logo}
+\end{figure}
+
+
+Hier steht ein Text mit Verweis auf das Bild \ref{fig:logo}, welches sich mit nur einem Mausklick findet.
+
+Figuren lassen sich mit dem \texttt{float} Paket durch die \texttt{[H]} Option fest auf der Seite platzieren.
+
+Ein abweichender Eintrag zu einer Abbildung für das Abbildungsverzeichnis kann bei Bedarf in eckigen Klammern bei der Beschriftung angegeben werden.
+
+In jedem Fall ist eine Quellenangabe für die Abbildungen vorzunehmen. 
+Diese kann mit dem Befehl \verb;\quelle{}; direkt unter \verb;\includegraphics; eingefügt werden.
+
+Jede Abbildung hat eine Abbildungsunterschrift, die sich aus einer Nummer und einer kurzen Erklärung zusammensetzt.
+
+\section{Tabellen}
+Tabellen lassen sich sehr einfach über die Seite \url{https://www.tablesgenerator.com/} erstellen. Jede Tabelle hat eine Überschrift und unterhalb gegebenenfalls einen Quellennachweis.
+\begin{table}[h]
+\centering
+\caption{Dies ist eine Tabelle}
+\begin{tabular}{|l|l|}
+\hline
+Spalte 1 & Spalte 2 \\ \hline\hline
+Inhalt   & Inhalt   \\ \hline
+Inhalt   & Inhalt   \\ \hline
+\end{tabular}\\\vspace{.1cm}
+{Quelle: Quelle der Tabelle}
+\end{table}
+
+
+\section{Bücher und Internetquellen}
+Auf Bücher und Internetquellen lässt sich sehr leicht in Fußnoten referenzieren.\\ 
+Viel über grundlegende Programmierung lernt man in dem Buch von Donald E. Knuth.\footnote{Vgl. \cite{book:knuth97}.} \qt{Dieses Zitat benötigt eine Seitenangabe.}\footnote{S. \cite[S. 57]{book:knuth97}.} 
+Eine beliebte Internetseite sind die Lexika des Spektrum-Verlags\footnote{Vgl. \cite{online:spektrumlex}.}, die für alle MINT-Fächer wissenschaftliche Nachschlagewerke bereitstellen.
+Es wird in der Fußnote automatisch auf das Literatur- beziehungsweise das Internetquellenverzeichnis verwiesen. 
+Sollte eine Darstellung der Quellen nach ISO 690 bevorzugt werden, kann diese in der Präambel ausgewählt werden.
+
+Im Literaturverzeichnis am Ende der Arbeit werden alle genutzten Werke dann alphabetisch sortiert und genannt.
+
+Nutzt für eine Orientierung bei der Angabe von Literatur die Broschüre auf der Homepage und einigt euch in der Gruppe auf ein gemeinsames Vorgehen.
+
+\section{Quelltext}
+Dies: \pythoninline{class GuteKlasse} ist Quelltext im Text und hier \ref{listing:code} in einer Figur als Listing.\\
+Quelltext aus einem Source-File einzubinden ist mit
+\begin{verbatim}
+ \pythonexternal{file.py}
+\end{verbatim}
+auch möglich.
+
+\begin{figure}[h!]
+\centering
+\begin{python}
+class MyClass(SuperClass):
+    def __init__(self):
+        print("Hello World")
+\end{python}
+\caption{Quellcodelisting in einer Figur}
+\label{listing:code}
+\end{figure}
