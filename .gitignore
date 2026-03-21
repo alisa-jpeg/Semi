@@ -19,6 +19,6 @@
 *.out
 *.url
 *.svn 
-*.syntex.gz
+*.synctex.gz
 *.toc
 *.xml
