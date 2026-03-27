@@ -10,12 +10,16 @@
 *.lot 
 *.pdf
 *.glo 
+*.glg
+*.gls
+*.glsdefs
 *.glx 
 *.gxg 
 *.gxs 
 *.idx 
 *.ilg
 *.ind
+*.ist
 *.out
 *.url
 *.svn 
