@@ -1,4 +1,4 @@
-\DeclareDatamodelEntrytypes{onlinelexikon, zeitschriftartikel, onlinedokument}
+\DeclareDatamodelEntrytypes{onlinelexikon, zeitschriftartikel, onlinedokument, Booknew}
 
 \DeclareDatamodelFields[type=field, datatype=date, skipout=false]{
   lasteditdate,}
@@ -11,7 +11,7 @@ In:\addspace\printfield{journaltitle}%
 \adddot\addspace%
 \printfield{url}%
 \addspace%
-\printurldate%
+\printfield{note}%
 \finentry%
 \newline
 }
@@ -41,7 +41,7 @@ In:\addspace\printfield{journaltitle}%
 }%
 \printfield{url}% 
 \addspace%
-\printurldate%
+\printfield{note}%
 \finentry%
 \newline
 }
@@ -53,7 +53,7 @@ In:\addspace\printfield{journaltitle}%
 		\printfield{title}\adddot\addspace%
 		\printfield{subtitle}\adddot\addspace%
 		\printfield{url}\addspace%
-		\printurldate%
+		\printfield{note}%
 	}
 	{
 		\printnames{author}\adddot\addspace%
@@ -61,8 +61,24 @@ In:\addspace\printfield{journaltitle}%
 		\printfield{title}\adddot\addspace%
 		\printfield{subtitle}\adddot\addspace%
 		\printfield{url}\addspace%
-		\printurldate%
+		\printfield{note}%
 	}%
 	\finentry%
 	\newline
+}
+
+\DeclareBibliographyDriver{Booknew}{
+	\printnames{author}\addspace%
+	\printfield{year}\addcolon\addspace%
+	\printfield{title}\adddot\addspace%
+	\printfield{subtitle}\adddot\addspace%
+	\iffieldundef{edition}
+	{}
+	{\printfield{edition}}
+	\printlist{publisher}\adddot%
+	\iffieldundef{url}
+	{}
+	{\addspace\printfield{url}\addspace\printfield{note}}%
+	\finentry%
+	\newline%
 }
