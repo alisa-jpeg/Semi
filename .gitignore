@@ -1,5 +1,6 @@
 *.aux 
 *.acr
+*.acn
 *.alg
 *.bcf
 *.bit
